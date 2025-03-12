@@ -5,3 +5,4 @@ firstly i collect data of employess that we need to analysis
 after that i perform differnt excel operation on data in table format
 ![Screenshot (17)](https://github.com/user-attachments/assets/1ee5b544-e8e2-4695-8dec-2d0475f12283)
 now the dashboard is ready of HR data analytics
+![Screenshot (18)](https://github.com/user-attachments/assets/7054f762-dba1-4e79-9865-fcb6f679ad45)
